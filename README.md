@@ -11,3 +11,5 @@
 https://jec2017.github.io/teaching_statistics/prob_distribution
 
 https://jec2017.github.io/teaching_statistics/parameter_estimation
+
+演習 統計的仮説検定 - R_enshu_hypothesis_testing.ipynb
